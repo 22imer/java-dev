@@ -1,0 +1,5 @@
+src/
+deb-file/*.deb
+deb-file/*.vsix
+!docker-compose.yml
+!Dockerfile
